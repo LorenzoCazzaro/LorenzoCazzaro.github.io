@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.unive.it/)'>Università Ca' Foscari Venezia</a>.
+subtitle: <a href='[https://www.unive.it/](https://www.unive.it/)'>Università Ca' Foscari Venezia</a>.
 
 profile:
   align: right
