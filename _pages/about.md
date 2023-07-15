@@ -6,7 +6,7 @@ subtitle: <a href='[https://www.unive.it/](https://www.unive.it/)'>Università C
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: whoami.jpeg
   image_circular: false # crops the image to make it circular
   address:
 
