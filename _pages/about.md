@@ -30,6 +30,6 @@ Moreover, I am also interested in the following research topics and I am current
 - Applications of Artificial Intelligence (AI) algorithms in Cybersecurity.
 - Adversarial Machine Learning.
 
-If you are interested in some topics on which I'm working, on some of my publications or would you simply like to contact me, the best way to reach my is by email (lorenzo.cazzaro@unive.it) or Twitter!
+If you are interested in some of the topics on which I'm working or on some of my publications or you would simply like to contact me, the best way to reach me is by email (lorenzo.cazzaro@unive.it) or Twitter!
 
 
