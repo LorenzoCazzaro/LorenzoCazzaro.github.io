@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Work in progress
+You can find a (possibly outdated) CV [here](https://lorenzocazzaro.github.io/assets/pdf/resume_cazzaro.pdf)
