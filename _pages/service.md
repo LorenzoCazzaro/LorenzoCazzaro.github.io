@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Artifact Evaluation committee
+## Artifact Evaluation committees
 
 - 17th IEEE Workshop on Offensive Technologies (WOOT'23) - co-located with 44th IEEE Symposium on
 Security and Privacy (IEEES&P 2023).
