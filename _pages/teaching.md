@@ -9,7 +9,7 @@ nav_order: 4
 
 ## A.Y. 2022/2023
 
-- Teacher for Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
+- Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
 
 - Teacher for Cryptography 2 (4.5h activity), [CyberChallenge.IT 2023](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
