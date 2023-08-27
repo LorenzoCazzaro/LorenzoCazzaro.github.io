@@ -14,7 +14,7 @@ nav_order: 2
 
 I am or have been an anonymous reviewer for the following conferences/journals:
 
-- 31-th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning - Special session *"Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness"*.
+- 31-th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2023) - Special session *"Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness"*.
 - IEEE Transactions on Information Forensics and Security (IEEE TIFS).
 - Journal of Computer Security.
 
