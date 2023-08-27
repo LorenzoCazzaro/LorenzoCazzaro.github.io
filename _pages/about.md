@@ -32,6 +32,6 @@ Moreover, I am also interested in the following research topics and I am current
 
 If you are interested in some of the topics on which I'm working or on some of my publications or you would simply like to contact me, the best way to reach me is by email [lorenzo.cazzaro@unive.it](mailto:lorenzo.cazzaro@unive.it) or Twitter!
 
-I am always looking for motivated students that enjoy working on the research topics on which I'm insterested! If you want to discuss details about possible topics for Bachelor's and Master's Thesis, feel free to drop me an email!
+I am always looking for motivated students who enjoy working on the research topics on which I'm insterested! If you want to discuss details about possible topics for Bachelor's and Master's Thesis, feel free to drop me an email!
 
 
