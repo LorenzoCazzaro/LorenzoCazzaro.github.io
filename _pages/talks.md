@@ -7,6 +7,19 @@ nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Conferences
 
-Organize your courses by years, topics, or universities, however you like!
+- Explainable Global Fairness Verification of Tree-Based Classifiers ([video](https://www.youtube.com/watch?v=lLqtqRFUHao&list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp&index=23&t=2s&pp=iAQB)), [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2023)](), Raleigh, North Carolina, USA, 09/02/2023
+
+- Resilience Verification of Tree-Based Classifiers, [AISSAI Workshop – ITASEC22](http://web.archive.org/web/20220522045701/https://itasec.it/workshop/workshop-ai-for-security-and-security-of-ai/), Rome, 20/06/2022
+
+- AMEBA: An Adaptive Approach to the Black-Box Evasion of Machine Learning Models ([video](https://dl.acm.org/doi/10.1145/3433210.3453114)), [ACM Asia Conference on Computer and Communications Security 2021 (ASIA CCS '21)](https://asiaccs2021.comp.polyu.edu.hk/), Online, 09/06/2021
+
+## Seminars
+
+
+- Beyond Robustness, [CISPA Summer School on Trustworthy Artificial Intelligence](https://cispa.de/en/summer-school-2022), CISPA Helmholtz Center for Information Security, Saarbruecken, Germany, 07/09/2022.
+
+- An Introduction to the Security of AI (extended version), [OWASP Italy Meetup 2021](https://owasp.org/www-chapter-italy/events/owasp-meetup-171221), Online, 17/12/2021.
+
+- An Introduction to the Security of AI, [Security Summit Streaming Edition november 2021](https://securitysummit.it/eventi/streaming-edition-novembre-2021/info), Online, 11/11/2021.
