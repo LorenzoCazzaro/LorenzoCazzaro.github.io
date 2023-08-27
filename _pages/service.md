@@ -1,15 +1,16 @@
 ---
 layout: page
 permalink: /service/
-title: Community Service
+title: Service
 description:
 nav: true
 nav_order: 2
 ---
 
-# Reviewing Activity
+## Reviewing Activity
 
-## Invited Reviewer
+
+#### Invited Reviewer
 
 I am or have been an anonymous reviewer for the following conferences/journals:
 
@@ -17,7 +18,8 @@ I am or have been an anonymous reviewer for the following conferences/journals:
 - IEEE Transactions on Information Forensics and Security (IEEE TIFS).
 - Journal of Computer Security.
 
-## External Reviewer
+
+### External Reviewer
 
 I performed some reviews as an external reviewer for:
 
