@@ -7,7 +7,18 @@ nav: true
 nav_order: 4
 ---
 
-## A.Y. 2022/2023
+## (Co-)Supervised Theses
+
+I am always looking for motivated students who enjoy working on the research topics on which I'm insterested! If you want to discuss details about possible topics for Bachelor's and Master's Thesis, feel free to drop me an email!
+
+Here you can find a list of (co-)supervised students and the title of the topic of their thesis:
+- Massimo Vettori (Bachelor's student), *Black-box Certification of Robustness of ML Models* (ongoing project).
+- Shehzad Inayat (Master's student), *Certifying Robustness of Machine Learning Models Utilizing Adversarial Attack Transferability*.
+- Simone Jovon (Bachelor's student), *Analysis of the effecacy of CodeQL for detecting XSS vulnerabilities in Javascript*.
+
+## Teaching Activity
+
+### A.Y. 2022/2023
 
 - Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
 
@@ -21,7 +32,7 @@ nav_order: 4
 
 - Tutor for [Discrete Mathematics](https://www.unive.it/data/course/379940) (Code CT0434, 6 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
 
-## A.Y. 2021/2022
+### A.Y. 2021/2022
 
 - Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
 
@@ -37,7 +48,7 @@ nav_order: 4
 
 - Tutor for [Discrete Mathematics](https://www.unive.it/data/course/354860) (Code CT0434, 6 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
 
-## A.Y. 2020/2021
+### A.Y. 2020/2021
 
 - Teacher for System Security 0+1 and Cryptography 2 (9h activity), [CyberChallenge.IT 2021](https://cyberchallenge.it/), Università Ca' Foscari Venezia.  
 

@@ -21,7 +21,7 @@ As of August 2023, I am a second year Ph.D. student at [Università Ca' Foscari 
 
 I obtained a Master's Degree in Computer Science in July 2021 (Best Master Thesis in Computer Science for the a.y. 2020/21 at Università Ca' Foscari Venezia and finalist for the Best Master Thesis Awards on Big Data & Data Science 2022 of the 1st Italian Conference on Big Data and Data Science) and a Bachelor's Degree in Computer Science in November 2019 (Best first-year student of the Bachelor's Degree programme).
 
-You can find an update copy of my CV [here](https://lorenzocazzaro.github.io/cv/resume_cazzaro.pdf) and my resume [here](https://lorenzocazzaro.github.io/cv/resume_cazzaro.pdf).
+You can find an update copy of my CV [here](https://lorenzocazzaro.github.io/cv/) and my resume [here](https://lorenzocazzaro.github.io/cv/ResumeCazzaro.pdf).
 
 My research activity during the Ph.D. focuses on verification of properties of Machine Learning (ML) models. 
 
