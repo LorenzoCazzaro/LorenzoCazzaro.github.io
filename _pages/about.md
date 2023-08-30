@@ -27,7 +27,7 @@ My research activity during the Ph.D. focuses on the verification of properties 
 
 Moreover, I am also interested in the following research topics and I am currently working on them:
 
-- Applications of Artificial Intelligence (AI) algorithms in Cybersecurity. I am currently working a specific topic of this category as a collaboration with prof. Pellegrino's group at CISPA.
+- Applications of Artificial Intelligence (AI) algorithms in Cybersecurity. I am currently working on a specific topic of this category as a collaboration with prof. Pellegrino's group at CISPA.
 - Adversarial Machine Learning.
 
 If you are interested in some of the topics on which I'm working or on some of my publications or you would simply like to contact me, the best way to reach me is by email [lorenzo.cazzaro@unive.it](mailto:lorenzo.cazzaro@unive.it) or Twitter!
