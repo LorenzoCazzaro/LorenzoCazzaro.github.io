@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-As of August 2023, I am a second-year Ph.D. student at [Università Ca' Foscari Venezia](https://www.unive.it/) under the supervision of [prof. Stefano Calzavara](https://www.dais.unive.it/~calzavara/). I also spent a period at [CISPA](https://cispa.de/en) as an intern under the supervision of [prof. Giancarlo Pellegrino](https://trouge.net/group/).
+As of September 2023, I am a third-year Ph.D. student at [Università Ca' Foscari Venezia](https://www.unive.it/) under the supervision of [prof. Stefano Calzavara](https://www.dais.unive.it/~calzavara/). I also spent a period at [CISPA](https://cispa.de/en) as an intern under the supervision of [prof. Giancarlo Pellegrino](https://trouge.net/group/).
 
 I obtained a Master's Degree in Computer Science in July 2021 (Best Master Thesis in Computer Science for the a.y. 2020/21 at Università Ca' Foscari Venezia and a finalist for the Best Master Thesis Awards on Big Data & Data Science 2022 of the 1st Italian Conference on Big Data and Data Science) and a Bachelor's Degree in Computer Science in November 2019 (Best first-year student of the Bachelor's Degree program).
 
