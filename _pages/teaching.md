@@ -21,7 +21,8 @@ Here you can find a list of (co-)supervised students and the title of the topic 
 ### A.Y. 2023/2024
 
 - Tutor for [Discrete Structures](https://www.unive.it/data/course/493937) (Code CT0628, 6 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
-- 
+
+
 ### A.Y. 2022/2023
 
 - Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
