@@ -18,7 +18,7 @@ nav_order: 3
 ## Seminars
 
 
-- Beyond Robustness, [CISPA Summer School on Trustworthy Artificial Intelligence](https://cispa.de/en/summer-school-2022), CISPA Helmholtz Center for Information Security, Saarbruecken, Germany, 07/09/2022.
+[//]: <> (- Beyond Robustness, [CISPA Summer School on Trustworthy Artificial Intelligence](https://cispa.de/en/summer-school-2022), CISPA Helmholtz Center for Information Security, Saarbruecken, Germany, 07/09/2022.)
 
 - An Introduction to the Security of AI (extended version), [OWASP Italy Meetup 2021](https://owasp.org/www-chapter-italy/events/owasp-meetup-171221), Online, 17/12/2021.
 
