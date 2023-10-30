@@ -20,6 +20,8 @@ Here you can find a list of (co-)supervised students and the title of the topic 
 
 ### A.Y. 2023/2024
 
+- Teaching Assistant for [Algorithms and Data Structures - Part 1](https://www.unive.it/data/course/401985) and [Algorithms and Data Structures - Part 2](https://www.unive.it/data/course/401986) (Code CT0371, 12 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
+- 
 - Tutor for [Discrete Structures](https://www.unive.it/data/course/493937) (Code CT0628, 6 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
 
 
