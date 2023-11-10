@@ -2,7 +2,7 @@
   url: https://satml.org/2023/
   color: "#00369f"
 
-"ASIACCS' 21":
+"ASIACCS 2021":
   url: https://dl.acm.org/doi/proceedings/10.1145/3433210
   color: "#00369f"
 
@@ -10,6 +10,6 @@
   url: https://www.sciencedirect.com/journal/computers-and-security
   color: "#00369f"
 
-"CCS' 23":
+"CCS 2023":
   url: https://www.sigsac.org/ccs/CCS2023/
   color: "#00369f"
