@@ -19,7 +19,7 @@ nav_order: 3
 
 ## Seminars
 
-- Data Independent Verification of Robustness and Fairness of Tree-Based Classifiers, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), Rome, Italy, 09/11/2023.
+- Data Independent Verification of Robustness and Fairness of Tree-Based Classifiers, Dipartimento di Informatica,[Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), Rome, Italy, 09/11/2023.
 
 [//]: <> (- Beyond Robustness, [CISPA Summer School on Trustworthy Artificial Intelligence](https://cispa.de/en/summer-school-2022), CISPA Helmholtz Center for Information Security, Saarbruecken, Germany, 07/09/2022.)
 
