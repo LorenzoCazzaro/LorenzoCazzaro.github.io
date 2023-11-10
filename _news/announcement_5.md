@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk at the Dipartimento di Informatica, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), on Nov. 9th.
+I will be giving a talk at the Dipartimento di Informatica, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), on Nov. 9th. Thanks to prof. Tolomei for giving me this opportunity!

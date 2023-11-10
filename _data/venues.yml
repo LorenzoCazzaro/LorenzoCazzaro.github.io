@@ -1,7 +1,15 @@
-"SaTML":
-  url: https://aapt.scitation.org/journal/ajp
+"SaTML 2023":
+  url: https://satml.org/2023/
   color: "#00369f"
 
-"ASIA CCS":
-  url: https://journals.aps.org/
+"ASIACCS' 21":
+  url: https://dl.acm.org/doi/proceedings/10.1145/3433210
+  color: "#00369f"
+
+"CoSe":
+  url: https://www.sciencedirect.com/journal/computers-and-security
+  color: "#00369f"
+
+"CCS' 23":
+  url: https://www.sigsac.org/ccs/CCS2023/
   color: "#00369f"
