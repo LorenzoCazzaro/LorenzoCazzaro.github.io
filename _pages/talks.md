@@ -11,7 +11,7 @@ nav_order: 3
 
 - Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_AIxIA_2023.pdf)), [22nd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2023)](https://www.aixia2023.cnr.it/), Rome, Italy, 08/11/2023
 
-- Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_SaTML_2023.pdf), [video](https://www.youtube.com/watch?v=lLqtqRFUHao&list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp&index=23&t=2s&pp=iAQB)), [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2023)](https://satml.org/2023/), Raleigh, North Carolina, USA, 09/02/2023
+- Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_SaTML.pdf), [video](https://www.youtube.com/watch?v=lLqtqRFUHao&list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp&index=23&t=2s&pp=iAQB)), [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2023)](https://satml.org/2023/), Raleigh, North Carolina, USA, 09/02/2023
 
 - Resilience Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Resilience_Verification_of_Tree_Based_Classifiers_AISSAI_2022.pdf)), [Workshop on AI for Security and Security of AI (AISSAI) – Italian Conference on Cybersecurity 2022 (ITASEC22)](http://web.archive.org/web/20220522045701/https://itasec.it/workshop/workshop-ai-for-security-and-security-of-ai/), Rome, Italy, 20/06/2022
 
@@ -25,4 +25,4 @@ nav_order: 3
 
 - An Introduction to the Security of AI (extended version), [OWASP Italy Meetup 2021](https://owasp.org/www-chapter-italy/events/owasp-meetup-171221), Online, 17/12/2021.
 
-- An Introduction to the Security of AI ([slides in Italian](https://lorenzocazzaro.github.io/slides/Un_introduzione_alla_sicurezza_dell_AI.pdf)), [Security Summit Streaming Edition november 2021](https://securitysummit.it/eventi/streaming-edition-novembre-2021/info), Online, 11/11/2021.
+- An Introduction to the Security of AI ([slides](https://lorenzocazzaro.github.io/slides/Un_introduzione_alla_sicurezza_dell_AI.pdf)), [Security Summit Streaming Edition november 2021](https://securitysummit.it/eventi/streaming-edition-novembre-2021/info), Online, 11/11/2021.
