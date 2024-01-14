@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-30 10:30:00-0400
+date: 2024-01-14 10:30:00-0400
 inline: true
 related_posts: false
 ---
 
-I am a reviewer for the *Security* track at the [International World Wide Web Conference 2024 (WWW 2024)](https://www2024.thewebconf.org/) ! 
+I will be giving a talk at the Safe Artificial Intelligence Lab, [Imperial College London](https://www.imperial.ac.uk/), on Jan. 29th 2024. Thanks to prof. Lomuscio and Mr Ben Batten for giving me this opportunity!

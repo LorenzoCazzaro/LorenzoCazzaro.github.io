@@ -9,6 +9,8 @@ nav_order: 3
 
 ## Conferences
 
+- Verifiable Learning for Robust Tree Ensembles, [The 30th ACM Conference on Computer and Communications Security (CCS 2023)](https://www.sigsac.org/ccs/CCS2023/), Copenhagen, Denmark, 27/11/2023
+
 - Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_AIxIA_2023.pdf)), [22nd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2023)](https://www.aixia2023.cnr.it/), Rome, Italy, 08/11/2023
 
 - Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_SaTML.pdf), [video](https://www.youtube.com/watch?v=lLqtqRFUHao&list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp&index=23&t=2s&pp=iAQB)), [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2023)](https://satml.org/2023/), Raleigh, North Carolina, USA, 09/02/2023
