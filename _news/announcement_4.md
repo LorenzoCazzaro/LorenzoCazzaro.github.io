@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk at the Safe Artificial Intelligence Lab, [Imperial College London](https://www.imperial.ac.uk/), on Jan. 29th 2024. Thanks to prof. Lomuscio and Mr Ben Batten for giving me this opportunity!
+I will be giving a talk at the [Safe Artificial Intelligence Lab, Imperial College London](https://sail.doc.ic.ac.uk/), on Jan. 29th 2024. Thanks to prof. Lomuscio and Mr Ben Batten for giving me this opportunity!
