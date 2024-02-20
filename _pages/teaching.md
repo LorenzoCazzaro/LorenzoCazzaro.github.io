@@ -12,13 +12,15 @@ nav_order: 4
 I am always looking for motivated students who enjoy working on the research topics in which I'm interested! If you want to discuss details about possible topics for a Bachelor's and Master's thesis, feel free to drop me an email!
 
 Here you can find a list of (co-)supervised students and the title of the topic of their thesis:
-- Massimo Vettori (Bachelor's student), *Black-box Certification of Robustness of ML Models* (ongoing project, co-supervised with prof. Stefano Calzavara).
-- Shehzad Inayat (Master's student), *Certifying Robustness of Machine Learning Models Utilizing Adversarial Attack Transferability* (co-supervised with prof. Stefano Calzavara).
-- Simone Jovon (Bachelor's student), *Analysis of the efficacy of CodeQL for detecting XSS vulnerabilities in Javascript* (co-supervised with prof. Stefano Calzavara).
+- Massimo Vettori (Bachelor's student), *Black-box Certification of Robustness of ML Models* (ongoing project, co-supervised with prof. Stefano Calzavara), a.a. 2022/2023.
+- Shehzad Inayat (Master's student), *Certifying Robustness of Machine Learning Models Utilizing Adversarial Attack Transferability* (co-supervised with prof. Stefano Calzavara), a.a. 2022/2023.
+- Simone Jovon (Bachelor's student), *Analysis of the efficacy of CodeQL for detecting XSS vulnerabilities in Javascript* (co-supervised with prof. Stefano Calzavara), a.a. 2021/2022.
 
 ## Teaching Activity
 
 ### A.Y. 2023/2024
+
+- Instructor, [CyberChallenge.IT 2024](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
 - Teaching Assistant for [Algorithms and Data Structures - Part 1](https://www.unive.it/data/course/401985) and [Algorithms and Data Structures - Part 2](https://www.unive.it/data/course/401986) (Code CT0371, 12 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
 
@@ -28,6 +30,8 @@ Here you can find a list of (co-)supervised students and the title of the topic 
 ### A.Y. 2022/2023
 
 - Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
+
+- Instructor, [CyberChallenge.IT 2023](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
 - Teacher for Cryptography 2 (4.5h activity), [CyberChallenge.IT 2023](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
@@ -42,6 +46,8 @@ Here you can find a list of (co-)supervised students and the title of the topic 
 ### A.Y. 2021/2022
 
 - Teacher for [Laboratory on Advanced Artificial Intelligence: Linear Regression and Adversarial Machine Learning](https://www.dais.unive.it/pls/orientamento/) (for high-school students, 8h activity), Università Ca' Foscari Venezia.
+
+- Instructor, [CyberChallenge.IT 2022](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
 - Teacher for Cryptography 0+1 and 2 (9h activity), [CyberChallenge.IT 2022](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
   
