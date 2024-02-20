@@ -21,9 +21,11 @@ nav_order: 3
 
 ## Seminars
 
+- Efficient and Principled Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Efficient and Principled Verification of Tree-Based Classifiers_SAIL_2024.pdf)), [Safe Artificial Intelligence Lab, Imperial College London](https://sail.doc.ic.ac.uk/), Online, 29/01/2024.
+
 - Data Independent Verification of Robustness and Fairness of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Data_Independent_Robustness_and_Fairness_Verification_of_Tree-Based_Classifiers_Sapienza_2023.pdf)), Dipartimento di Informatica, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), Rome, Italy, 09/11/2023.
 
-[//]: <> (- Beyond Robustness, [CISPA Summer School on Trustworthy Artificial Intelligence](https://cispa.de/en/summer-school-2022), CISPA Helmholtz Center for Information Security, Saarbruecken, Germany, 07/09/2022.)
+- Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_SaTML.pdf)), Seminars of the PhD course in Computer Science, Università Ca' Foscari Venezia, 23/11/2022
 
 - An Introduction to the Security of AI (extended version), [OWASP Italy Meetup 2021](https://owasp.org/www-chapter-italy/events/owasp-meetup-171221), Online, 17/12/2021.
 
