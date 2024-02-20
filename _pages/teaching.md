@@ -12,9 +12,9 @@ nav_order: 4
 I am always looking for motivated students who enjoy working on the research topics in which I'm interested! If you want to discuss details about possible topics for a Bachelor's and Master's thesis, feel free to drop me an email!
 
 Here you can find a list of (co-)supervised students and the title of the topic of their thesis:
-- Massimo Vettori (Bachelor's student), *Black-box Certification of Robustness of ML Models* (ongoing project, co-supervised with prof. Stefano Calzavara), a.a. 2022/2023.
-- Shehzad Inayat (Master's student), *Certifying Robustness of Machine Learning Models Utilizing Adversarial Attack Transferability* (co-supervised with prof. Stefano Calzavara), a.a. 2022/2023.
-- Simone Jovon (Bachelor's student), *Analysis of the efficacy of CodeQL for detecting XSS vulnerabilities in Javascript* (co-supervised with prof. Stefano Calzavara), a.a. 2021/2022.
+- Massimo Vettori (Bachelor's student), *Black-box Certification of Robustness of ML Models* (ongoing project, co-supervised with prof. Stefano Calzavara), a.y. 2022/2023.
+- Shehzad Inayat (Master's student), *Certifying Robustness of Machine Learning Models Utilizing Adversarial Attack Transferability* (co-supervised with prof. Stefano Calzavara), a.y 2022/2023.
+- Simone Jovon (Bachelor's student), *Analysis of the efficacy of CodeQL for detecting XSS vulnerabilities in Javascript* (co-supervised with prof. Stefano Calzavara), a.y. 2021/2022.
 
 ## Teaching Activity
 
