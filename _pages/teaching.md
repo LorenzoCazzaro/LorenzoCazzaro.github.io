@@ -20,7 +20,11 @@ Here you can find a list of (co-)supervised students and the title of the topic 
 
 ### A.Y. 2023/2024
 
+- Teacher for [Laboratory on Cybersecurity and Cryptography](https://www.unive.it/data/46282/) (for high-school students, 6h activity), Università Ca' Foscari Venezia.
+
 - Instructor, [CyberChallenge.IT 2024](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
+
+- Teacher for Cryptography 0+1 (4.5h activity), [CyberChallenge.IT 2024](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
 - Teaching Assistant for [Algorithms and Data Structures - Part 1](https://www.unive.it/data/course/401985) and [Algorithms and Data Structures - Part 2](https://www.unive.it/data/course/401986) (Code CT0371, 12 CFU, 30h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
 
@@ -33,7 +37,7 @@ Here you can find a list of (co-)supervised students and the title of the topic 
 
 - Instructor, [CyberChallenge.IT 2023](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
-- Teacher for Cryptography 2 (4.5h activity), [CyberChallenge.IT 2023](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
+- Teacher for Cryptography 0+1 (4.5h activity), [CyberChallenge.IT 2023](https://cyberchallenge.it/), Università Ca' Foscari Venezia.
 
 - Teaching Assistant for [Database Systems - Part 1](https://www.unive.it/data/course/354578) and [Database Systems - Part 2](https://www.unive.it/data/course/354579) (Code CT0006, 12 CFU, 40h activity), Bachelor's Degree in Computer Science, Università Ca' Foscari Venezia.
 
