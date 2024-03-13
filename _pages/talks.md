@@ -21,6 +21,8 @@ nav_order: 3
 
 ## Seminars
 
+- Verifiable Learning: Defining and Training Verifiable Machine Learning Models, Seminars of the PhD course in Computer Science, Università Ca' Foscari Venezia, 13/03/2024
+
 - Efficient and Principled Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Efficient and Principled Verification of Tree-Based Classifiers_SAIL_2024.pdf)), [Safe Artificial Intelligence Lab, Imperial College London](https://sail.doc.ic.ac.uk/), Online, 29/01/2024.
 
 - Data Independent Verification of Robustness and Fairness of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Data_Independent_Robustness_and_Fairness_Verification_of_Tree-Based_Classifiers_Sapienza_2023.pdf)), Dipartimento di Informatica, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), Rome, Italy, 09/11/2023.
