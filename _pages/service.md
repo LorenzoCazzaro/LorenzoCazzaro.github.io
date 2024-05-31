@@ -7,26 +7,24 @@ nav: true
 nav_order: 2
 ---
 
-## Reviewing Activity
-
-## PC Memberships
+### PC Memberships
 
 - Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 - 31st ACM Conference on Computer and Communications Security (CCS 2024) - Posters/Demo session
 - 2024 ACM Web Conference (WWW 2024) - *Security* track.
 - 31-th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2023) - Special session *"Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness"*.
 
-## Invited Reviewer for Journals
+### Invited Reviewer for Journals
 
 - IEEE Transactions on Information Forensics and Security (IEEE TIFS).
 - Journal of Computer Security.
 
-## Artifact Evaluation Committee Memberships
+### Artifact Evaluation Committee Memberships
 
 - 17th IEEE Workshop on Offensive Technologies (WOOT'23) - co-located with 44th IEEE Symposium on
 Security and Privacy (IEEES&P 2023).
 
-## External Reviewer
+### External Reviewer
 
 I performed some reviews as an external reviewer for:
 
