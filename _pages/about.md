@@ -25,13 +25,14 @@ You can find a copy of my resume [here](https://lorenzocazzaro.github.io/cv/Resu
 
 My research activity during the Ph.D. focuses on the verification of properties of Machine Learning (ML) models. 
 
-Moreover, I am also interested in the following research topics and I am currently working on them:
+Moreover, I am also interested in the following research topics, and I am currently working on them:
 - Adversarial Machine Learning.
 - Applications of Artificial Intelligence (AI) algorithms in Cybersecurity.
+- Machine Learning models watermarking and data exfiltration.
 
 
 If you are interested in some of the topics on which I'm working or on some of my publications or you would simply like to contact me, the best way to reach me is by email [lorenzo.cazzaro@unive.it](mailto:lorenzo.cazzaro@unive.it) or Twitter!
 
-I am always looking for motivated students who enjoy working on the research topics in which I'm interested! If you want to discuss details about possible topics for a Bachelor's and Master's thesis, feel free to drop me an email!
+I am always looking for motivated students who enjoy working on the research topics I'm interested in! If you want to discuss details about possible topics for a Bachelor's or Master's thesis, feel free to email me!
 
 

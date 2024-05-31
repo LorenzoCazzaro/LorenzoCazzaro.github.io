@@ -13,6 +13,8 @@ nav_order: 2
 
 I am or have been an anonymous reviewer for the following conferences/journals:
 
+- Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+- 31st ACM Conference on Computer and Communications Security (CCS 2024) - Posters/Demo session
 - 2024 ACM Web Conference (WWW 2024) - *Security* track.
 - 31-th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2023) - Special session *"Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness"*.
 - IEEE Transactions on Information Forensics and Security (IEEE TIFS).
