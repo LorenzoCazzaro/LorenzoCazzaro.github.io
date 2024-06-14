@@ -28,7 +28,6 @@ Security and Privacy (IEEES&P 2023).
 
 I performed some reviews as an external reviewer for:
 
-- The 37-th Conference on Neural Information Processing Systems (NeurIPS 2023).
 - The Italian Conference on Cybersecurity 2023 (ITASEC 2023).
 - The 39-th Annual Computer Security Applications Conference (ACSAC 2022).
 - The 6-th IEEE European Symposium on Security and Privacy (EuroS&P 2021).
