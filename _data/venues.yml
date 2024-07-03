@@ -13,3 +13,7 @@
 "CCS 2023":
   url: https://www.sigsac.org/ccs/CCS2023/
   color: "#00369f"
+
+"Arxiv":
+  url: https://arxiv.org/
+  color: "#c21807"
