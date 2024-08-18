@@ -10,7 +10,7 @@ nav_order: 2
 ### PC Memberships
 
 ##### 2025
-2024 ACM Web Conference (WWW 2025) - *Security and Privacy* track.
+- 2025 ACM Web Conference (WWW 2025) - *Security and Privacy* track.
 
 ##### 2024
 - Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
