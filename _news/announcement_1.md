@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-02 10:30:00-0400
+date: 2023-10-20 10:30:00-0400
 inline: true
 related_posts: false
 ---
 
-The paper *Verifiable Learning for Robust Tree Ensembles* (pre-print [here](https://arxiv.org/abs/2305.03626)) has been accepted at [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)! I will attend the conference on November 26-30, 2023!
+I will be giving a talk at the Dipartimento di Informatica, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), on Nov. 9th. Thanks to prof. Tolomei for giving me this opportunity!

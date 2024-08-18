@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-10-20 10:30:00-0400
+date: 2024-05-28 10:30:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be giving a talk at the Dipartimento di Informatica, [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en), on Nov. 9th. Thanks to prof. Tolomei for giving me this opportunity!
+I am a reviewer for the [Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://neurips.cc/) and a member of the program committee of the [31st ACM Conference on Computer and Communications Security (CCS 2024) - Posters/Demo session](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-posters.html) (ACM CCS 2024 posters) and the [17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)](https://aisec.cc/)! 
+
