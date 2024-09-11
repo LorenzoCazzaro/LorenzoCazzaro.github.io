@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 2
 ---
+### PC Chairing
+
+- Poster Chair of the 10th IEEE European Symposium on Security and Privacy (IEEE EuroS&P 2025).
 
 ### PC Memberships
 
