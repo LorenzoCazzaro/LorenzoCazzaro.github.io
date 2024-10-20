@@ -19,7 +19,7 @@ nav_order: 2
 
 ##### 2024
 - Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024);
-- 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024);
+- 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024) - **Top Reviewer**;
 - 31st ACM Conference on Computer and Communications Security (CCS 2024) - Posters/Demo session;
 - 2024 ACM Web Conference (WWW 2024) - *Security* track.
 
