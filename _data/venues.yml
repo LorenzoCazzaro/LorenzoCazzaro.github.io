@@ -17,3 +17,7 @@
 "Arxiv":
   url: https://arxiv.org/
   color: "#c21807"
+
+"S&P 2025":
+url: https://sp2025.ieee-security.org/
+color: "#00369f"
