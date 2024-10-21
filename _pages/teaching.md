@@ -12,7 +12,8 @@ nav_order: 4
 I am always looking for motivated students who enjoy working on the research topics in which I'm interested! If you want to discuss details about possible topics for a Bachelor's and Master's thesis, feel free to drop me an email!
 
 Here you can find a list of (co-)supervised students and the title of the topic of their thesis:
-- Maksim Kovalkov (Bachelor's student), *Reinforcement Learning for Web Crawling* (ongoing project, co-supervised with prof. Stefano Calzavara), a.y. 2023/2024.
+- Mattia Quagliotto (Bachelor's student), *Constrained Evasion Attacks against Machine Learning* (co-supervised with prof. Stefano Calzavara), a.y. 2023/2024.
+- Maksim Kovalkov (Bachelor's student), *Reinforcement Learning for Web Crawling* (co-supervised with prof. Stefano Calzavara), a.y. 2023/2024.
 - Matteo Schiocchet (Bachelor's student), *Poisoning Attacks Against Tree-Based Models* (co-supervised with prof. Stefano Calzavara), a.y. 2023/2024.
 - Daniel Andrei Bercu (Bachelor's student), *Realistic Evasion Attacks Against Machine Learning Models* (co-supervised with prof. Stefano Calzavara), a.y. 2023/2024.
 - Donald Gera (Bachelor's student), *Watermarking Decision Tree Ensembles* (co-supervised with prof. Stefano Calzavara), a.y. 2023/2024.
