@@ -18,8 +18,8 @@ nav_order: 2
 - 2025 ACM Web Conference (WWW 2025) - *Security and Privacy* track.
 
 ##### 2024
-- Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024);
-- 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024) - **Top Reviewer**;
+- Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) - [**Top Reviewer** (top 8%)](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers);
+- 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024) - [**Top Reviewer**](https://aisec.cc/#committee);
 - 31st ACM Conference on Computer and Communications Security (CCS 2024) - Posters/Demo session;
 - 2024 ACM Web Conference (WWW 2024) - *Security* track.
 
