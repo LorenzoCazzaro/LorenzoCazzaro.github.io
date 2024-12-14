@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-25 10:30:00-0400
+date: 2024-09-11 10:30:00-0400
 inline: true
 related_posts: false
 ---
 
-I am a reviewer for the *Security and Privacy* track at the [International World Wide Web Conference 2025 (WWW 2025)](https://www2025.thewebconf.org/) and for the [Thirteenth International Conference on Learning Representations (ICLR 2025)](https://iclr.cc/Conferences/2025).
+I will serve as poster chair for the [10th IEEE European Symposium on Security and Privacy (IEEE EuroS&P 2025)](https://eurosp2025.ieee-security.org/)!

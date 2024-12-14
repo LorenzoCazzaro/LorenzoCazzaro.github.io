@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as poster chair for the [10th IEEE European Symposium on Security and Privacy (IEEE EuroS&P 2025)](https://eurosp2025.ieee-security.org/)!
+I have been selected as a Top Reviewer at the [Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers) and the [17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)](https://aisec.cc/#committee)! 

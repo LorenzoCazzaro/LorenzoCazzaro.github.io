@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2024-05-28 10:30:00-0400
+date: 2024-08-27 10:30:00-0400
 inline: true
 related_posts: false
 ---
 
-I am a reviewer for the [Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://neurips.cc/) and a member of the program committee of the [31st ACM Conference on Computer and Communications Security (CCS 2024) - Posters/Demo session](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-posters.html) (ACM CCS 2024 posters) and the [17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)](https://aisec.cc/)! 
-
+Our paper [Verifiable Boosted Tree Ensembles](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a022/21B7QdnSnoQ) has been accepted at [IEEE S&P 2025](https://sp2025.ieee-security.org/)! In this work, we demonstrate how to train boosted tree ensembles with robustness guarantees that can be efficiently verified in polynomial time, overcoming the challenge of robustness verification, which is NP-hard for tree ensembles in general.
