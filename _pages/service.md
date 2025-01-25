@@ -30,7 +30,8 @@ nav_order: 2
 
 ### Invited Reviewer for Journals
 
-- IEEE Transactions on Information Forensics and Security (IEEE TIFS);
+- Transactions on Machine Learning Research (TMLR).
+- IEEE Transactions on Information Forensics and Security (IEEE TIFS).
 - Journal of Computer Security.
 
 ### Artifact Evaluation Committee Memberships
