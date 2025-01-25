@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: The material of the courses is released only if I am allowed to do it by the University.
+#description: The material of the courses is released only if I am allowed to do it by the University.
 nav: true
 nav_order: 4
 ---
