@@ -21,3 +21,11 @@
 "S&P 2025":
 url: https://sp2025.ieee-security.org/
 color: "#00369f"
+
+"EDBT 2025":
+url: https://edbticdt2025.upc.edu/?contents=main.html
+color: "#00369f"
+
+"SaTML 2025":
+  url: https://satml.org/2025/
+  color: "#00369f"

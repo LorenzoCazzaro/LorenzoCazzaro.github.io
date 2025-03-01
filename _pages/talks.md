@@ -9,6 +9,8 @@ nav_order: 3
 
 ## Conferences
 
+- Verifiable Boosted Tree Ensembles [Trustworthy AI for Cybersecurity (TAIC) workshop - Joint Italian Conference on Cybersecurity (ITASEC 2025)](https://taicworkshop.github.io/), Bologna, Italy, 03/02/2025
+
 - Verifiable Learning for Robust Tree Ensembles ([slides](https://lorenzocazzaro.github.io/slides/Verifiable_Learning_for_Robust_Tree_Ensembles.pdf)), [The 30th ACM Conference on Computer and Communications Security (CCS 2023)](https://www.sigsac.org/ccs/CCS2023/), Copenhagen, Denmark, 27/11/2023
 
 - Explainable Global Fairness Verification of Tree-Based Classifiers ([slides](https://lorenzocazzaro.github.io/slides/Explainable_Global_Fairness_Verification_AIxIA_2023.pdf)), [22nd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2023)](https://www.aixia2023.cnr.it/), Rome, Italy, 08/11/2023
@@ -20,6 +22,10 @@ nav_order: 3
 - AMEBA: An Adaptive Approach to the Black-Box Evasion of Machine Learning Models ([slides](https://lorenzocazzaro.github.io/slides/AMEBA_AsiaCCS_presentation_15min.pdf), [video](https://dl.acm.org/doi/10.1145/3433210.3453114)), [ACM Asia Conference on Computer and Communications Security 2021 (ASIA CCS '21)](https://asiaccs2021.comp.polyu.edu.hk/), Online, 09/06/2021
 
 ## Seminars
+
+- Efficient and Expressive Verification of Tree Based Models, Ph.D. Thesis dissertation, Università Ca' Foscari Venezia, 10/03/2025 (upcoming)
+
+- Efficient and Expressive Verification of Tree Based Models, Seminars of the PhD course in Computer Science, Università Ca' Foscari Venezia, 09/01/2025
 
 - Verifiable Learning: Defining and Training Verifiable Machine Learning Models, Seminars of the PhD course in Computer Science, Università Ca' Foscari Venezia, 13/03/2024
 

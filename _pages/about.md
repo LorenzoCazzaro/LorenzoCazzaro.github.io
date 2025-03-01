@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-As of April 2024, I am a third-year Ph.D. student at [Università Ca' Foscari Venezia](https://www.unive.it/) under the supervision of [prof. Stefano Calzavara](https://www.dais.unive.it/~calzavara/). I also spent a period at [CISPA](https://cispa.de/en) as an intern under the supervision of [prof. Giancarlo Pellegrino](https://trouge.net/group/).
+As of April 2024, I am a postdoctoral researcher at [Università Ca' Foscari Venezia](https://www.unive.it/) under the supervision of [prof. Stefano Calzavara](https://www.dais.unive.it/~calzavara/) and [prof. Salvatore Orlando](https://www.unive.it/data/people/5592727). I also spent a period at [CISPA](https://cispa.de/en) as an intern under the supervision of [prof. Giancarlo Pellegrino](https://trouge.net/group/).
 
-I obtained a Master's Degree in Computer Science in July 2021 (Best Master Thesis in Computer Science for the a.y. 2020/21 at Università Ca' Foscari Venezia and a finalist for the Best Master Thesis Awards on Big Data & Data Science 2022 of the 1st Italian Conference on Big Data and Data Science) and a Bachelor's Degree in Computer Science in November 2019 (Best first-year student of the Bachelor's Degree program).
+I will discuss my Ph.D. thesis on March 10th 2025. I obtained a Master's Degree in Computer Science in July 2021 (Best Master Thesis in Computer Science for the a.y. 2020/21 at Università Ca' Foscari Venezia and a finalist for the Best Master Thesis Awards on Big Data & Data Science 2022 of the 1st Italian Conference on Big Data and Data Science) and a Bachelor's Degree in Computer Science in November 2019 (Best first-year student of the Bachelor's Degree program).
 
 You can find my DBLP page [here](https://dblp.org/pid/294/3340.html).
 
