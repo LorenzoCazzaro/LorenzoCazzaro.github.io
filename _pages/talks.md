@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Conferences
 
-- Verifiable Boosted Tree Ensembles [Trustworthy AI for Cybersecurity (TAIC) workshop - Joint Italian Conference on Cybersecurity (ITASEC 2025)](https://taicworkshop.github.io/), Bologna, Italy, 03/02/2025
+- Verifiable Boosted Tree Ensembles, [Trustworthy AI for Cybersecurity (TAIC) workshop - Joint Italian Conference on Cybersecurity (ITASEC 2025)](https://taicworkshop.github.io/), Bologna, Italy, 03/02/2025
 
 - Verifiable Learning for Robust Tree Ensembles ([slides](https://lorenzocazzaro.github.io/slides/Verifiable_Learning_for_Robust_Tree_Ensembles.pdf)), [The 30th ACM Conference on Computer and Communications Security (CCS 2023)](https://www.sigsac.org/ccs/CCS2023/), Copenhagen, Denmark, 27/11/2023
 
