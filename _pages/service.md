@@ -16,7 +16,7 @@ nav_order: 2
 - Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 - Trustworthy AI for Cybersecurity (TAIC) workshop @ Joint (Italian) National Conference on Cybersecurity (ITASEC) 2025.
 - The Forty-Second International Conference on Machine Learning (ICML 2025).
-- The 28th International Conference on Artificial Intelligence and Statistics (AISTATS) 2025.
+- The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025).
 - The Thirteenth International Conference on Learning Representations (ICLR 2025).
 - 2025 ACM Web Conference (WWW 2025) - *Security and Privacy* track.
 
