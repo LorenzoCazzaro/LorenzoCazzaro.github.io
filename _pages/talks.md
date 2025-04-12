@@ -9,7 +9,9 @@ nav_order: 3
 
 ## Conferences
 
-- Watermarking Decision Tree Ensembles, [28th International Conference on Extending Database Technology (EDBT 2025)](https://edbticdt2025.upc.edu/), Barcelona, Spain, 28/04/2025
+- Timber! Poisoning Decision Trees, [3rd IEEE Conference on Secure and Trustworthy Machine Learning (IEEE SaTML 2025)](https://satml.org/#), Copenaghen, Denmark, 11/04/2025
+
+- Watermarking Decision Tree Ensembles, [28th International Conference on Extending Database Technology (EDBT 2025)](https://edbticdt2025.upc.edu/), Barcelona, Spain, 28/03/2025
 
 - Verifiable Boosted Tree Ensembles, [Trustworthy AI for Cybersecurity (TAIC) workshop - Joint Italian Conference on Cybersecurity (ITASEC 2025)](https://taicworkshop.github.io/), Bologna, Italy, 03/02/2025.
 
