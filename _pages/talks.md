@@ -9,6 +9,10 @@ nav_order: 3
 
 ## Conferences
 
+- Less is More: Boosting Coverage of Web Crawling through Adversarial Multi-Armed Bandit, [55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025)](https://dsn2025.github.io/), Naples, Italy, 26/06/2025
+
+- Verifiable Boosted Tree Ensembles, [46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)](https://sp2025.ieee-security.org/), San Francisco, USA, 13/05/2025
+
 - Timber! Poisoning Decision Trees, [3rd IEEE Conference on Secure and Trustworthy Machine Learning (IEEE SaTML 2025)](https://satml.org/#), Copenaghen, Denmark, 11/04/2025
 
 - Watermarking Decision Tree Ensembles, [28th International Conference on Extending Database Technology (EDBT 2025)](https://edbticdt2025.upc.edu/), Barcelona, Spain, 28/03/2025
