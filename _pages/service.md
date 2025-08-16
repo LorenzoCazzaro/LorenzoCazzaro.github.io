@@ -12,6 +12,11 @@ nav_order: 2
 
 ### PC Memberships
 
+##### 2026
+- 35th USENIX Security Symposium (USENIX 2026).
+- 4th IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026).
+
+
 ##### 2025
 - Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 - Trustworthy AI for Cybersecurity (TAIC) workshop @ Joint (Italian) National Conference on Cybersecurity (ITASEC) 2025.
@@ -31,6 +36,8 @@ nav_order: 2
 
 ### Invited Reviewer for Journals
 
+- ACM Transactions on AI Security and Privacy (TAISAP).
+- Knowledge-Based Systems (KNOSYS).
 - Transactions on Machine Learning Research (TMLR).
 - IEEE Transactions on Information Forensics and Security (IEEE TIFS).
 - Journal of Computer Security.
@@ -39,11 +46,3 @@ nav_order: 2
 
 - 17th IEEE Workshop on Offensive Technologies (WOOT'23) - co-located with 44th IEEE Symposium on
 Security and Privacy (IEEES&P 2023).
-
-### External Reviewer
-
-I performed some reviews as an external reviewer for:
-
-- The Italian Conference on Cybersecurity 2023 (ITASEC 2023).
-- The 39-th Annual Computer Security Applications Conference (ACSAC 2022).
-- The 6-th IEEE European Symposium on Security and Privacy (EuroS&P 2021).
