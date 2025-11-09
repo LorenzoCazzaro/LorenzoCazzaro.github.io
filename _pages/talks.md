@@ -7,7 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+## Tutorials
+
+- [Towards Adversarially Robust ML in The Age of The AI Act](https://sites.google.com/view/robust-ai-ecai2025/home), [28th European Conference on Artificial Intelligence](https://ecai2025.org/) (ECAI 2025), Bologna, Italy, 25/10/2025
+
 ## Conferences
+
+- Verifiable Boosted Tree Ensembles, [7th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis](https://overlay.uniud.it/workshop/2025/) (OVERLAY 2025), [28th European Conference on Artificial Intelligence](https://ecai2025.org/) (ECAI 2025), Bologna, Italy, 26/10/2025
 
 - Less is More: Boosting Coverage of Web Crawling through Adversarial Multi-Armed Bandit, [55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025)](https://dsn2025.github.io/), Naples, Italy, 26/06/2025
 
@@ -30,6 +36,8 @@ nav_order: 3
 - AMEBA: An Adaptive Approach to the Black-Box Evasion of Machine Learning Models ([slides](https://lorenzocazzaro.github.io/slides/AMEBA_AsiaCCS_presentation_15min.pdf), [video](https://dl.acm.org/doi/10.1145/3433210.3453114)), [ACM Asia Conference on Computer and Communications Security 2021 (ASIA CCS '21)](https://asiaccs2021.comp.polyu.edu.hk/), Online, 09/06/2021.
 
 ## Seminars
+
+- Empirical and Formal Approaches for Secure Machine Learning, University of Luxembourg, 14/10/2025.
 
 - Efficient and Expressive Verification of Tree Based Models, Ph.D. Thesis dissertation, Università Ca' Foscari Venezia, 10/03/2025.
 
