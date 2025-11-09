@@ -17,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-As of November 2025, I am a Postdoctoral Researcher at [University of Luxembourg - SnT](https://www.uni.lu/snt-en/), in particular in the [Serval group](https://www.uni.lu/snt-en/research-groups/serval/), under the supervision of prof. [Maxime Cordy](https://maxcordy.github.io/).
+As of November 2025, I am a Postdoctoral Researcher at the [University of Luxembourg - SnT](https://www.uni.lu/snt-en/), in particular in the [SerVal group](https://www.uni.lu/snt-en/research-groups/serval/), under the supervision of prof. [Maxime Cordy](https://maxcordy.github.io/).
 I was previously a postdoctoral researcher at [Università Ca' Foscari Venezia](https://www.unive.it/) under the supervision of [prof. Stefano Calzavara](https://www.dais.unive.it/~calzavara/) and [prof. Salvatore Orlando](https://www.unive.it/data/people/5592727). I also spent a period at [CISPA](https://cispa.de/en) as an intern under the supervision of [prof. Giancarlo Pellegrino](https://trouge.net/group/).
 
-I earned my Ph.D. in Computer Science with honors from Università Ca' Foscari Venezia in March 2025. I also obtained a Master's Degree in Computer Science in July 2021 (Best Master Thesis in Computer Science for the a.y. 2020/21 at Università Ca' Foscari Venezia and a finalist for the Best Master Thesis Awards on Big Data & Data Science 2022 of the 1st Italian Conference on Big Data and Data Science) and a Bachelor's Degree in Computer Science in November 2019 (Best first-year student of the Bachelor's Degree program).
+I earned my Ph.D. in Computer Science with honors from Università Ca' Foscari Venezia in March 2025 under the supervision of [prof. Stefano Calzavara](https://www.dais.unive.it/~calzavara/). I also obtained a Master's Degree in Computer Science in July 2021 (Best Master Thesis in Computer Science for the a.y. 2020/21 at Università Ca' Foscari Venezia and a finalist for the Best Master Thesis Awards on Big Data & Data Science 2022 of the 1st Italian Conference on Big Data and Data Science) and a Bachelor's Degree in Computer Science in November 2019 (Best first-year student of the Bachelor's Degree program).
 
 You can find my DBLP page [here](https://dblp.org/pid/294/3340.html).
 
