@@ -16,6 +16,7 @@ nav_order: 2
 ##### 2026
 - 35th USENIX Security Symposium (USENIX 2026).
 - 4th IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026).
+- 33rd ACM Conference on Computer and Communications Security (ACM CCS 2026) - _Machine Learning and Security track_.
 
 
 ##### 2025
