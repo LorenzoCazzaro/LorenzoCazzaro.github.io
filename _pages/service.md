@@ -39,6 +39,7 @@ nav_order: 2
 
 ### Invited Reviewer for Journals
 
+- ACM Transactions on Privacy and Security (TOPS).
 - ACM Transactions on AI Security and Privacy (TAISAP).
 - Knowledge-Based Systems (KNOSYS).
 - Transactions on Machine Learning Research (TMLR).
