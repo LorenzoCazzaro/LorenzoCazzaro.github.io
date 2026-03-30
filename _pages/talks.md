@@ -41,6 +41,8 @@ nav_order: 3
 
 ## Seminars
 
+- Watermarking Tabular Datasets, Reading Group of SerVal - SnT, University of Luxembourg, 09/01/2026.
+
 - Empirical and Formal Approaches for Secure Machine Learning, University of Luxembourg, 14/10/2025.
 
 - Efficient and Expressive Verification of Tree Based Models, Ph.D. Thesis dissertation, Università Ca' Foscari Venezia, 10/03/2025.
