@@ -9,9 +9,13 @@ nav_order: 3
 
 ## Tutorials
 
+- [Towards Adversarially Robust ML in The Age of The AI Act](https://sites.google.com/view/robust-ai-ecai2025/home), [2nd Joint National Conference on Cybersecurity](https://agenda-2026.itasec.it/?track=tutorial) (ITASEC26), Cagliari, Italy, 09/02/2026
+
 - [Towards Adversarially Robust ML in The Age of The AI Act](https://sites.google.com/view/robust-ai-ecai2025/home), [28th European Conference on Artificial Intelligence](https://ecai2025.org/) (ECAI 2025), Bologna, Italy, 25/10/2025
 
 ## Conferences
+
+- Watermarking Decision Tree Ensembles, [1st edition of the Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER) - Joint (Italian) National Conference on Cybersecurity (ITASEC) 2026](https://whisper-workshop.github.io/program/), Cagliari, Italy, 09/02/2026
 
 - Verifiable Boosted Tree Ensembles, [7th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis](https://overlay.uniud.it/workshop/2025/) (OVERLAY 2025), [28th European Conference on Artificial Intelligence](https://ecai2025.org/) (ECAI 2025), Bologna, Italy, 26/10/2025
 

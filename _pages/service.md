@@ -14,6 +14,7 @@ nav_order: 2
 ### PC Memberships
 
 ##### 2026
+- Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)
 - 35th USENIX Security Symposium (USENIX 2026).
 - 4th IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026).
 - 33rd ACM Conference on Computer and Communications Security (ACM CCS 2026) - _Machine Learning and Security track_.
@@ -39,6 +40,7 @@ nav_order: 2
 
 ### Invited Reviewer for Journals
 
+- Machine Learning, Springer.
 - ACM Transactions on Privacy and Security (TOPS).
 - ACM Transactions on AI Security and Privacy (TAISAP).
 - Knowledge-Based Systems (KNOSYS).
