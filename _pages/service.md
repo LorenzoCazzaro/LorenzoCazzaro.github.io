@@ -8,13 +8,28 @@ nav_order: 2
 ---
 ### PC Chairing
 
+##### 2026
+
+- Organizer and PC Chair of the 1st Workshop on Real-world AI Security and Engineering for Cybersecurity Systems
+(RAISE) 2026 at the 31st European Symposium on Research in Computer Security (ESORICS) 2026.
+
 - Organizer and PC Chair of the 1st edition of the Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER) at the Joint (Italian) National Conference on Cybersecurity (ITASEC) 2026.
+
+##### 2025
+
 - Poster Chair of the 10th IEEE European Symposium on Security and Privacy (IEEE EuroS&P 2025).
 
 ### PC Memberships
 
+##### 2027
+
+- 5th IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026).
+
 ##### 2026
-- Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)
+
+- 1st Workshop on Secure and Trustworthy AI (STAI) 2026 @ ECML-PKDD 2026,
+- 2nd Generative Code Intelligence Workshop (GeCoin) 2026 @ IJCAI-ECAI 2026.
+- Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).
 - 35th USENIX Security Symposium (USENIX 2026).
 - 4th IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026).
 - 33rd ACM Conference on Computer and Communications Security (ACM CCS 2026) - _Machine Learning and Security track_.

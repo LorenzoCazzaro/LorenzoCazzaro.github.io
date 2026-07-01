@@ -33,3 +33,7 @@ color: "#00369f"
 "DSN 2025":
   url: https://dsn2025.github.io/
   color: "#00369f"
+
+"EuroS&P 2026":
+  url: https://eurosp2026.ieee-security.org/
+  color: "#00369f"

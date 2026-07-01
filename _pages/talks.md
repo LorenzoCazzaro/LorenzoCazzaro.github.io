@@ -15,6 +15,8 @@ nav_order: 3
 
 ## Conferences
 
+- Formal Foundations of Trigger-Based Watermarking, [11th IEEE European Symposium on Security and Privacy (IEEE EuroS&P 2026)](https://eurosp2026.ieee-security.org/), Lisbon, Portugal, 09/07/2026
+
 - Watermarking Decision Tree Ensembles, [1st edition of the Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER) - Joint (Italian) National Conference on Cybersecurity (ITASEC) 2026](https://whisper-workshop.github.io/program/), Cagliari, Italy, 09/02/2026
 
 - Verifiable Boosted Tree Ensembles, [7th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis](https://overlay.uniud.it/workshop/2025/) (OVERLAY 2025), [28th European Conference on Artificial Intelligence](https://ecai2025.org/) (ECAI 2025), Bologna, Italy, 26/10/2025
